@@ -1,11 +1,15 @@
-# Star Wars Bank
+![Star Wars Bank](https://i.ibb.co/dWQHjkN/apple-touch-icon.png) 
+
+# Star Wars Bank - [![Generic badge](https://img.shields.io/badge/Demo-Live-green.svg)](https://starwarsbank.netlify.app)
+
 _Have fun searching and navigating all the Star Wars Data you've ever wanted_
 
 ## What is `Star Wars Bank`?
 
-Having troubles with finding star wars data online? Star Wars Bank is here to help. It is a beginner-friendly web application that pulls all the star wars data from 1977, the first film release date and formats them into human readable information which is fun to use. It is based on the popular Star Wars API => [SWAPI](https://swapi.dev) and was designed to help you grasp and understand modern web technologies if you are a beginner. ![Star Wars Bank](https://i.ibb.co/dWQHjkN/apple-touch-icon.png) 
+Having troubles with finding star wars data online? Star Wars Bank is here to help. It is a beginner-friendly web application that pulls all the star wars data from 1977, the first film release date and formats them into human readable information which is fun to use. It is based on the popular Star Wars API => [SWAPI](https://swapi.dev) and was designed to help you grasp and understand modern web technologies if you are a beginner. 
 
 Live on Netlify @ [Star Wars Bank](https://starwarsbank.netlify.app)
+
 
 ## What are the technologies used?
 
