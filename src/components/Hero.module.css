@@ -1,0 +1,20 @@
+.hero {
+    background-color: #2e2e35;
+}
+
+.hero h1 {
+    color: #ffd700;
+}
+
+.hero p {
+    color: #fff49b;
+}
+
+@media (max-width: 478px) {
+    .hero {
+        padding-top: 10px;
+    }
+    .hero h1 {
+        font-size: 24px;
+    }
+}

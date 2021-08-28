@@ -1,0 +1,18 @@
+.card {
+    background-color: #2e2e35 !important;
+    color: #fff;
+    margin: 15px;
+}
+
+.card h5 {
+    color: #ffd700;
+    font-size: 25px;
+}
+
+.card a {
+    text-decoration: none;
+    padding: 5px 15px;
+    color: #fff;
+    border: 1px solid #ffd700;
+    border-radius: 5px;
+}

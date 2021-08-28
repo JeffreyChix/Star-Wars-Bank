@@ -1,0 +1,14 @@
+.project-wrapper {
+    position: relative;
+    min-height: 100vh;
+}
+
+.footer-wrapper {
+    padding-top: 150px;
+}
+
+@media (max-width: 768px) {
+    .footer-wrapper {
+        padding-top: 250px;
+    }
+}

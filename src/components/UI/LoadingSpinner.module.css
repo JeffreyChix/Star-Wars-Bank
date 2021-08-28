@@ -1,0 +1,14 @@
+.loading_spinner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    color: #ffd700;
+}
+
+@media (min-width: 478px) {
+    .loading_spinner {
+        height: 400px;
+    }
+}

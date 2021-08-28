@@ -1,0 +1,32 @@
+.row {
+    padding-top: 30px;
+}
+.form label {
+    margin-bottom: 10px;
+}
+
+.form div {
+    margin-bottom: 15px;
+}
+
+.form .btn_submit {
+    background: #2e2e35;
+    padding: 8px 20px;
+    color: #ffd700;
+    transition: 0.3s ease-in-out;
+}
+
+@media (max-width: 478px) {
+    .form .btn_submit {
+        width: 100%;
+    }
+}
+
+.form .btn_submit:hover {
+    color: #fff;
+}
+
+.form textarea {
+    box-shadow: none !important;
+    resize: none !important;
+}

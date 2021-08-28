@@ -1,0 +1,24 @@
+.row {
+    background: #2e2e35;
+    padding: 30px 30px;
+}
+
+.row .creator_box p {
+    color: #fff;
+    font-size: 18px;
+}
+
+.row .creator_box h4 {
+    color: #ffd700;
+}
+
+.row .creator_box a {
+    color: #fff;
+    padding-right: 10px;
+}
+
+@media (max-width: 478px) {
+    .row {
+        padding: 40px 15px;
+    }
+}

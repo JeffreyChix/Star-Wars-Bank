@@ -1,0 +1,34 @@
+.card {
+    background: #2e2e35 !important;
+    margin: 15px;
+}
+
+@media (max-width: 478px) {
+    .card {
+        margin: 6px;
+    }
+}
+
+.card h5 {
+    color: #ffd700;
+}
+
+.card .meta_box {
+    background: transparent;
+    padding: 5px 15px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.card a {
+    text-decoration: none;
+    background: #333338;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: #ffd700;
+    font-size: 18px;
+}
+
+.card img {
+    max-width:  30px;
+}

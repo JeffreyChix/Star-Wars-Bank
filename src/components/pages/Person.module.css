@@ -1,0 +1,53 @@
+.person_details_box {
+    background: #2e2e35;
+    padding: 40px 35px;
+}
+
+@media (max-width: 478px) {
+    .person_details_box {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+.person_details_box .homeworld a {
+    color: #fff;
+}
+
+.meta_box {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    color: #fff;
+    padding: 20px;
+}
+
+.content p {
+    font-size: 20px;
+    word-spacing: 4px;
+    color: #fff;
+}
+
+.accordion_item .accordion_button {
+    background: #2e2e35 !important;
+    box-shadow: 0px 1px 3px #242424 !important;
+    color: #fff !important;
+    font-size: calc(1.3rem + .6vw);
+}
+
+.accordion_item .accordion_button::after {
+    color: #fff !important;
+}
+
+.accordion_item .accordion_body {
+    background: #2e2e35 !important;
+}
+
+.sidebar ol {
+    padding: 5px 15px;
+    color: #fff;
+}
+
+.sidebar ol a {
+    color: #fff;
+    padding: 0;
+}

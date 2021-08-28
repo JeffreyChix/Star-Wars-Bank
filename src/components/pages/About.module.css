@@ -1,0 +1,18 @@
+.row {
+    padding-top: 25px ;
+    color: #2e2e35;
+}
+
+.row h3 {
+    font-size: 26px;
+}
+
+.row p {
+    padding-top: 15px;
+    color: #2e2e35;
+    font-size: 18px;
+}
+
+.row a {
+    color: #ffd700;
+}

@@ -1,0 +1,22 @@
+.to-top {
+    position: fixed;
+    bottom: 60px;
+    right: 50px;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+    font-size: 18px;
+    background: #2e2e35;
+    z-index: 116;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 0px 7px rgba(255, 255, 255, 0.2);
+    -webkit-transform: translate3d(0, 0, 0);
+}
+
+.to-top:hover {
+    background: #242424;
+    color: #fff;
+}

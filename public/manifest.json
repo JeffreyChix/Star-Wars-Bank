@@ -1,0 +1,25 @@
+{
+  "short_name": "Star Wars Bank",
+  "name": "Star Wars Bank",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 48X48 32x32 24x24 16x16 ",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "android-chrome.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#2e2e35"
+}

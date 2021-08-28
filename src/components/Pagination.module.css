@@ -1,0 +1,35 @@
+
+.pagination li a, .pagination li button, .pagination li span{
+    background: #2e2e35;
+    color: #ffd700;
+    font-size: 20px;
+    box-shadow: none !important;
+    cursor: pointer;
+}
+
+.pagination li a:hover, .pagination li button:hover, .pagination li span:hover {
+    background: #fff;
+    color: #2e2e35 !important;
+}
+
+/* .pagination li a:focus, .pagination li button:focus, .pagination li span:focus {
+    background: #fff;
+    color: #2e2e35 !important;
+} */
+
+.pagination li.active span {
+    background: #2e2e35;
+    font-weight: bolder;
+    color: #fff !important;
+}
+
+.pagination li.active a {
+    background: #2e2e35;
+    font-weight: bolder;
+    color: #fff !important;
+}
+
+.pagination .disabled {
+    pointer-events: none !important;
+    background: #757579;
+}

@@ -1,0 +1,13 @@
+.searchResource {
+    border-bottom: 1px solid #ffd700;
+    padding: 10px 5px;
+    margin-bottom: 15px;
+}
+
+.searchResource:last-child {
+    border-bottom: 0 !important;
+}
+
+.searchResource h3 {
+    margin-bottom: 15px;
+}

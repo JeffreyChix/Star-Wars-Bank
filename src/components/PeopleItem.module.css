@@ -1,0 +1,35 @@
+.wrapper a {
+    text-decoration: none;
+}
+
+.card {
+    background: #2e2e35 !important;
+    padding: 20px;
+}
+
+.card .card-header {
+    border-bottom: 1px solid #ffd700;
+}
+
+.card .card-body img {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.card .card-body .card-text h4 {
+    color: #ffd700;
+    font-size: 28px;
+}
+
+.card .card-body .card-text p {
+    font-size: 20px;
+    color: #fff;
+}
+
+
+@media (max-width: 768px) {
+    .card {
+        margin-bottom: 20px;
+    }
+}

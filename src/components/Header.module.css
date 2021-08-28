@@ -1,0 +1,19 @@
+.container-fluid {
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #2e2e35;
+    color: #fff;
+}
+
+.container-fluid header {
+    margin: 0;
+}
+
+.container-fluid .brand {
+    font-size: 25px;
+}
+
+
+li.active a {
+    color: #ffd700 !important;
+}
